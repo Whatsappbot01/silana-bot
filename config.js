@@ -10,7 +10,7 @@ global.setting = {
 
 global.owner = [
 ['212639319505', 'ZA ID LH', true],
-['', '', false]
+['212717457920', 'NOUR', true]
 ]
 
 global.info = {
